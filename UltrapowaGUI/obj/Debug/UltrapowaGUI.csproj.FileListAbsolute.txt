@@ -1,0 +1,9 @@
+C:\Users\Juliens\Desktop\UltrapowaGUI\UltrapowaGUI\bin\Debug\UltrapowaGUI.exe.config
+C:\Users\Juliens\Desktop\UltrapowaGUI\UltrapowaGUI\bin\Debug\UltrapowaGUI.exe
+C:\Users\Juliens\Desktop\UltrapowaGUI\UltrapowaGUI\bin\Debug\UltrapowaGUI.pdb
+C:\Users\Juliens\Desktop\UltrapowaGUI\UltrapowaGUI\obj\Debug\UltrapowaGUI.csprojResolveAssemblyReference.cache
+C:\Users\Juliens\Desktop\UltrapowaGUI\UltrapowaGUI\obj\Debug\UltrapowaGUI.Form1.resources
+C:\Users\Juliens\Desktop\UltrapowaGUI\UltrapowaGUI\obj\Debug\UltrapowaGUI.Properties.Resources.resources
+C:\Users\Juliens\Desktop\UltrapowaGUI\UltrapowaGUI\obj\Debug\UltrapowaGUI.csproj.GenerateResource.Cache
+C:\Users\Juliens\Desktop\UltrapowaGUI\UltrapowaGUI\obj\Debug\UltrapowaGUI.exe
+C:\Users\Juliens\Desktop\UltrapowaGUI\UltrapowaGUI\obj\Debug\UltrapowaGUI.pdb
