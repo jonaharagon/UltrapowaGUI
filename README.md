@@ -1,7 +1,7 @@
 Ultrapowa
 =========
 
-Installatin Instructions
+Installation Instructions
 ------------------------
 1. Download the latest copy of UltraGUI from our homepage: http://ultragui.tk/downloads/UltraGUI%20v3.0.zip
 2. Extract the contents of #MAIN FILES# in the zip file and place them in your Ultrapowa install folder.
