@@ -1,5 +1,5 @@
-Ultrapowa
-=========
+Ultrapowa GUI
+============
 
 Installation Instructions
 ------------------------
